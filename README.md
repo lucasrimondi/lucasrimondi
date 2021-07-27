@@ -7,8 +7,12 @@
 </div>
 
 ## About me :mortar_board:
-I'm an **emerging developer** (but also a Lawyer ⚖️ with a degree in Accountancy 🧮 - 😅 -) from Argentina 🇦🇷. Enthusiast and curious by nature, I'm always looking for new challenges. A former rugby player and a music fanatic that loves to prove himself capable of overcoming every obstacle.
-I’m currently working on improving my skills and discovering this beautiful and infinite universe of programming.
+- I'm an **emerging developer** (but also a Lawyer ⚖️ with a degree in Accountancy 🧮 - 😅 -).<br>
+- Born, raised and placed in Argentina 🇦🇷 with italian blood 🇮🇹. <br>
+- Enthusiast and curious by nature, always looking for new challenges. <br> 
+- A former rugby player and a music fanatic that loves to prove himself capable of overcoming every obstacle.<br>
+- Currently working on improving my skills and discovering this beautiful and infinite universe of programming.
+
 ## What I know :computer:
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
@@ -20,7 +24,7 @@ I’m currently working on improving my skills and discovering this beautiful an
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 
-## Reach me ⬇️
+## Reach me 📫
 [![Linkedin](https://img.shields.io/badge/-Lucas%20Rimondi-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/lucasrimondi/)](https://www.linkedin.com/in/lucasrimondi/)
 [![Mail](https://img.shields.io/badge/-lucasrimondi@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red&link=https://www.linkedin.com/in/lucasrimondi/)](mailto:lucasrimondi@gmail.com)
 
