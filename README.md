@@ -32,4 +32,4 @@
 ## Interesting stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasrimondi)
 
-# Thanks for stopping by! Hasta la próxima! 😁
+### Thanks for stopping by! Hasta la próxima! 😁
