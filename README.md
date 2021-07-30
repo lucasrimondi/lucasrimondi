@@ -7,10 +7,10 @@
 </div>
 
 ## About me :mortar_board:
-- I'm an **emerging developer** (but also a Lawyer ⚖️ with a degree in Accountancy 🧮 - 😅 -).<br>
+- I'm an **emerging developer** (but also a lawyer ⚖️ with a degree in Accountancy 🧮 - 😅 -).<br>
 - Born, raised and placed in Argentina 🇦🇷 with italian blood 🇮🇹. <br>
 - Enthusiast and curious by nature, always looking for new challenges. <br> 
-- A former rugby player and a music fanatic that loves to prove himself capable of overcoming every obstacle.<br>
+- A former rugby player and a progressive music fan that loves to prove himself capable of overcoming every obstacle.<br>
 - Currently working on improving my skills and discovering this beautiful and infinite universe of programming.
 
 ## What I know :computer:
