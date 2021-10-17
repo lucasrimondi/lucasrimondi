@@ -7,7 +7,7 @@
 </div>
 
 ## About me :mortar_board:
-- I'm an **emerging developer** (but also a Lawyer ⚖️ with a Bacherlor's degree in Accountancy 🧮 - 😅 -).<br>
+- I'm an **emerging developer** (but also a Lawyer ⚖️ with a Bacherlor's Degree in Accountancy 🧮 - 😅 -).<br>
 - Born, raised and placed in Argentina 🇦🇷 with italian blood 🇮🇹. <br>
 - Enthusiast and curious by nature, always looking for new challenges. <br> 
 - A former rugby player and a progressive house music fan that loves to prove himself capable of overcoming every obstacle.<br>
