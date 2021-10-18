@@ -1,5 +1,5 @@
 
-# Hi! Welcome to my github! 👋 > [![Github](https://img.shields.io/github/followers/lucasrimondi?label=Follow&style=social)](https://github.com/lucasrimondi)
+# Hi! Welcome to my github! 👋 
 ![Profile views](https://gpvc.arturio.dev/lucasrimondi)
 
 <div align="center">
