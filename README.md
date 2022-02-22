@@ -38,6 +38,8 @@
 
 
 ## Interesting stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasrimondi)
+<div align="center">
+<img width="320" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasrimondi">
+</div>
 
 ### Thanks for stopping by! Hasta la próxima! 😁
