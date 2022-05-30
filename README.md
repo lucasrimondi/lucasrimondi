@@ -7,7 +7,8 @@
 </div>
 
 ## About me :mortar_board:
-- I'm an **emerging front-end developer** with testing competencies (but also a Lawyer ⚖️ with a Bacherlor's Degree in Accountancy 🧮 - 😅 -).<br>
+- I'm a **front-end developer** with testing competencies (but also a Lawyer ⚖️ with a Bacherlor's Degree in Accountancy 🧮 - 😅 -).<br>
+- Crypto nerd 🤓 and blockchain fundamentalist 🔗. <br> 
 - Born, raised and placed in Argentina 🇦🇷 with italian blood 🇮🇹. <br>
 - Enthusiast and curious by nature, always looking for new challenges. <br> 
 - An amateur rugby player and a progressive house music fan that loves to prove himself capable of overcoming every obstacle.<br>
