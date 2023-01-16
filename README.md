@@ -37,4 +37,6 @@
 [![Linkedin](https://img.shields.io/badge/-Lucas%20Rimondi-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/lucasrimondi/)](https://www.linkedin.com/in/lucasrimondi/)
 [![Mail](https://img.shields.io/badge/-lucasrimondi@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucasrimondi@gmail.com)
 
+
+
 ### Thanks for stopping by! Hasta la próxima! 😁
