@@ -12,7 +12,7 @@
 - Born, raised and placed in Argentina 🇦🇷 with italian blood 🇮🇹. <br>
 - Enthusiast and curious by nature, always looking for new challenges. <br> 
 - An amateur rugby player and a progressive house music fan that loves to prove himself capable of overcoming every obstacle.<br>
-- Currently working on improving my skills and discovering this beautiful and infinite universe of programming.
+- Currently working on improving my skills and discovering this beautiful and infinite universe of web3.
 
 ## What I know :computer:
   ![HTML5](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
