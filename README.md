@@ -1,6 +1,5 @@
 
 # Hi! Welcome to my github! 👋 
-![Profile views](https://gpvc.arturio.dev/lucasrimondi)
 
 <div align="center">
 	<img src="https://user-images.githubusercontent.com/87493125/127210438-b73b2765-5b09-41c4-a631-4c614361e374.jpg">
