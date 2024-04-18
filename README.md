@@ -6,11 +6,11 @@
 </div>
 
 ## About me :mortar_board:
-- I'm a **frontend developer** with testing competencies (but also a Lawyer ⚖️ with a Bacherlor's Degree in Accountancy 🧮 😅).<br>
+- I'm a detail-oriented **frontend developer** with a background in law and accounting.<br>
 - Crypto nerd 🤓 and blockchain fundamentalist 🔗. <br> 
 - Born, raised and placed in Argentina 🇦🇷 with italian blood 🇮🇹. <br>
 - Enthusiast and curious by nature, always looking for new challenges. <br> 
-- Amateur rugby player and Progressive House music fan that loves to prove himself capable of overcoming every obstacle.<br>
+- Amateur Rugby player and Progressive House music fan that loves to prove himself capable of overcoming every obstacle.<br>
 - Currently working on improving my skills and discovering this beautiful and infinite universe of web3.
 
 ## Tech stack :computer:
